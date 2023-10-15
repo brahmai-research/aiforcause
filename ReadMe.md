@@ -29,7 +29,7 @@ We're in this together, and we're counting on your support to keep this API free
 
 ## What's Available Now
 
-We're starting with the GPT-3.5 4k API Endpoint, and it's just the beginning. With your support, we aim to bring you even more models, including the future GPT-4, unlocking a world of AI possibilities.
+We're starting with the GPT-3.5 4k API Endpoint, and it's just the beginning. With your support, we aim to bring you even more models, including GPT-4, unlocking a world of AI possibilities.
 
 ## Usage Guidelines
 
