@@ -1,7 +1,7 @@
 # #AIForCause
 ### Empowering everyone with free-to-use API for ChatGPT.
 ## AIForCause is a step that DEEPNIGHT takes towards advancing and democratizing the world of Artificial Intelligence.
-![AIForCause Banner](./#aiforcause.png)  
+![AIForCause Banner](https://github.com/deepnight-ai/aiforcause---FREE-APIs-to-AI-MODELS/blob/main/%23aiforcause.png?raw=true)
 
 Hello, we are [DEEPNIGHT](https://deepnight.tech), we are thrilled to introduce you to the **#aiforcause API**. We've got something special to share with the AI community.
 
