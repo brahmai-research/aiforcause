@@ -7,6 +7,7 @@
 <ul>
   <li>Nov 3rd, 2023: We are upgrading the API from <b>GPT-3.5 4k</b> to <b>GPT-3.5 16k + Function Calling</b></li>
 </ul>
+---
 
 Hello, we are [DEEPNIGHT](https://deepnight.tech), we are thrilled to introduce you to the **#aiforcause API**. We've got something special to share with the AI community.
 
