@@ -5,6 +5,7 @@
 
 # !!!UPDATES!!!
 <ul>
+  <li>Feb 11th, 2024: We are bringing in <b>GPT-4-Turbo</b> for all!</li>
   <li>Nov 3rd, 2023: We are upgrading the API from <b>GPT-3.5 4k</b> to <b>GPT-3.5 16k + Function Calling</b></li>
 </ul>
 
@@ -44,9 +45,11 @@ We're starting with the GPT-3.5 4k API Endpoint, and it's just the beginning. Wi
 
 - **Please use responsibly!** We are doing this for a good cause! Please use it for the same reason. This effort is not going to be worth a single penny if we end up revoking the endpoint. Your responsible usage ensures that this valuable resource remains available to all.
 
-- **API Key:** To use the endpoint, simply change the OpenAI base_url to the above-mentioned endpoint. Mentioning the API Key is mandatory, so please just pass a random string instead (it's of no use in this case).
+- **API Key:** The endpoint for OpenAI models is: ```https://aiforcause.deepnight.tech/openai/``` and for the API Key, just pass anything... seriously doesn't matter.
 
-- **No Streaming Support:** It doesn't currently have streaming support, please don't use stream with this. If you encounter any issues or have questions about the API's usage, feel free to reach out to us at [hello@deepnight.tech](mailto:hello@deepnight.tech).
+- ~**No Streaming Support:** It doesn't currently have streaming support, please don't use stream with this. If you encounter any issues or have questions about the API's usage, feel free to reach out to us at [hello@deepnight.tech](mailto:hello@deepnight.tech).~
+
+- **Streaming Support:** We are finally bringing in streaming support over the API.
 
 - **Response:** The response is going to be an OpenAI API response with just a couple of things masked. Rest everything is exactly the same!
 
