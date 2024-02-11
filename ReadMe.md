@@ -47,11 +47,30 @@ We're starting with the GPT-3.5 4k API Endpoint, and it's just the beginning. Wi
 
 - **API Key:** The endpoint for OpenAI models is: ```https://aiforcause.deepnight.tech/openai/``` and for the API Key, just pass anything... seriously doesn't matter.
 
+- **Models:** To find the active models, ping on ```https://aiforcause.deepnight.tech/models``` and use the  ```model_id``` as the model to be mentioned in the OpenAI client.
+
 - ~**No Streaming Support:** It doesn't currently have streaming support, please don't use stream with this. If you encounter any issues or have questions about the API's usage, feel free to reach out to us at [hello@deepnight.tech](mailto:hello@deepnight.tech).~
 
 - **Streaming Support:** We are finally bringing in streaming support over the API.
 
 - **Response:** The response is going to be an OpenAI API response with just a couple of things masked. Rest everything is exactly the same!
+
+## Example Code:
+```python
+from openai import OpenAI
+client = OpenAI(
+  api_key="<BLAH__BLAH__BLAH>",
+  base_url="https://aiforcause.deepnight.tech/openai/"
+)
+
+response = client.chat.completion.create(
+  model="gpt-35-turbo",   # gpt-35-turbo (GPT-3.5 Turbo - 4k) || gpt-35-turbo-16k (GPT-3.5 Turbo 16k) || gpt-4-turbo (GPT-4 Turbo)
+  messages=[...your_messages...],
+  stream=False # or True
+)
+
+print(response.choices[0].message.content)
+```
 
 ## Join the Movement
 
