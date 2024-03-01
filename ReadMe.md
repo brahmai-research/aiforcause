@@ -63,7 +63,7 @@ client = OpenAI(
   base_url="https://aiforcause.deepnight.tech/openai/"
 )
 
-response = client.chat.completion.create(
+response = client.chat.completions.create(
   model="gpt-35-turbo",   # gpt-35-turbo (GPT-3.5 Turbo - 4k) || gpt-35-turbo-16k (GPT-3.5 Turbo 16k) || gpt-4-turbo (GPT-4 Turbo)
   messages=[...your_messages...],
   stream=False # or True
