@@ -1,6 +1,6 @@
 # #AIForCause
 ### Empowering everyone with free-to-use API for ChatGPT.
-## AIForCause is a step that DEEPNIGHT takes towards advancing and democratizing the world of Artificial Intelligence.
+## AIForCause is a step that BRAHMAI takes towards advancing and democratizing the world of Artificial Intelligence.
 ![AIForCause Banner](https://github.com/deepnight-ai/aiforcause---FREE-APIs-to-AI-MODELS/blob/main/%23aiforcause.png?raw=true)
 
 # !!!UPDATES!!!
@@ -11,11 +11,11 @@
 
 ---
 
-Hello, we are [DEEPNIGHT](https://deepnight.tech), we are thrilled to introduce you to the **#aiforcause API**. We've got something special to share with the AI community.
+Hello, we are [BRAHMAI](https://deepnight.tech), we are thrilled to introduce you to the **#aiforcause API**. We've got something special to share with the AI community.
 
 ## Our Mission
 
-At DEEPNIGHT, we believe in pushing the boundaries of AI. We're on a mission to make AI accessible to everyone, regardless of their financial resources. We understand that not everyone can afford expensive AI services, and we're here to change that. With the #aiforcause API, you can access powerful AI tools to drive innovation, enhance your applications, and bring your ideas to life.
+At BRAHMAI, we believe in pushing the boundaries of AI. We're on a mission to make AI accessible to everyone, regardless of their financial resources. We understand that not everyone can afford expensive AI services, and we're here to change that. With the #aiforcause API, you can access powerful AI tools to drive innovation, enhance your applications, and bring your ideas to life.
 
 ## What's the Deal?
 
@@ -74,7 +74,7 @@ print(response.choices[0].message.content)
 
 ## Join the Movement
 
-Whether you're a seasoned AI professional or just getting started, DEEPNIGHT's AI for Cause API is here for you. Let's build a more inclusive AI community, break the barriers, and explore the limitless possibilities of AI together.
+Whether you're a seasoned AI professional or just getting started, BRAHMAI's AI for Cause API is here for you. Let's build a more inclusive AI community, break the barriers, and explore the limitless possibilities of AI together.
 
 Get started now: [https://aiforcause.deepnight.tech](https://aiforcause.deepnight.tech)
 
@@ -82,6 +82,6 @@ Your contribution can help us bring AI to those who need it most and expand the 
 
 Cheers to AI without limits! 🚀
 
-— Team [DEEPNIGHT](https://deepnight.tech)
+— Team [BRAHMAI](https://deepnight.tech)
 
-*Note: DEEPNIGHT is an independent organization and not affiliated with OpenAI. This API is provided free of charge by DEEPNIGHT to support the AI community.*
+*Note: BRAHMAI is an independent organization and not affiliated with OpenAI. This API is provided free of charge by BRAHMAI to support the AI community.*
