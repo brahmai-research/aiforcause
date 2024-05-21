@@ -33,7 +33,6 @@ Your privacy is important to us. That's why we've made sure our API comes with n
 
 We're in this together, and we're counting on your support to keep this API free. If you find value in what we're offering, we'd greatly appreciate any contributions or donations you can make to help us sustain this mission. Your generosity will enable us to continue providing this service and expand our offerings, including adding more features and capabilities to the API.
 
-**Donate Now:** [https://donate.deepnight.tech/aiforcause](https://donate.deepnight.tech/)
 
 ## What's Available Now
 
