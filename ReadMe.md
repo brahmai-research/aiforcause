@@ -48,7 +48,7 @@ We're starting with the GPT-3.5 4k API Endpoint, and it's just the beginning. Wi
 
 - **Models:** To find the active models, ping on ```https://aiforcause.deepnight.tech/models``` and use the  ```model_id``` as the model to be mentioned in the OpenAI client.
 
-- ~**No Streaming Support:** It doesn't currently have streaming support, please don't use stream with this. If you encounter any issues or have questions about the API's usage, feel free to reach out to us at [hello@deepnight.tech](mailto:hello@deepnight.tech).~
+- ~**No Streaming Support:** It doesn't currently have streaming support, please don't use stream with this. If you encounter any issues or have questions about the API's usage, feel free to reach out to us at [hello@brahmai.in](mailto:hello@brahmai.in).~
 
 - **Streaming Support:** We are finally bringing in streaming support over the API.
 
