@@ -1,3 +1,22 @@
+## A note from the founder of BRAHMAI
+Hey there guys,
+I'm [Kshitij S. Tyagi](https://linkedin.com/in/kstyagi), Founder of BRAHMAI.
+It is with a heavy heart that I announce temporarily shutting down #aiforcause API  for an indefinite amount of time.
+This decision was made after the constant spam requests hitting the server that resulted in exceeding the rate limits of our Azure OpenAI resource.
+
+Yes, we could have deployed another resource and increased the limit, but I don't believe there's a point in doing so if not all of it is reaching the right people.
+
+However, I'd like to mention that we will be bringing #aiforcause back up for you all and this time with better provisions.
+I still have the same intentions, I still hold the same beliefs, but I just need to find a better way of doing it!
+
+Thanks to all those who used it in the way it was intended. I hope you guys got the benefit of it. I am sorry for turning it off like it.
+If you built something amazing using this, learnt something, if it was helpful, I'd love to hear about it. Feel free to write me at kstyagi@brahmai.in!
+
+
+Cheers guys ✌️ 
+---
+# README
+---
 # #AIForCause
 ### Empowering everyone with free-to-use API for ChatGPT.
 ## AIForCause is a step that BRAHMAI takes towards advancing and democratizing the world of Artificial Intelligence.
